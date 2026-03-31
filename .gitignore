@@ -1,0 +1,24 @@
+# R
+.Rhistory
+.RData
+.Ruserdata
+
+# RStudio
+.Rproj.user/
+
+# Data (NO subir bases)
+data/
+
+# Archivos pesados
+*.rds
+*.Rds
+*.rdata
+*.RData
+*.dta
+*.sav
+*.csv
+*.xlsx
+
+# OS
+.DS_Store
+Thumbs.db
